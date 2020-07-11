@@ -190,5 +190,11 @@ p.post-info {
     margin-top: 0;
     font-size: .7rem;
     color: #332e29;
-    opacity: .7;
+    opacity: .6;
+}
+
+p.post-info a:link,
+p.post-info a:visited {
+    font-weight: 600;
+    color: #130e09;
 }
